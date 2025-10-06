@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jenidub
 - 👀 I’m interested in ... coding, education and how the intersection of the two can change the world for the better
 - 🌱 I’m currently learning ... Full stack development using the MERN tech stack
-- 📫 How to reach me ... find me @ LinkedIn at username jenidubca
+- 📫 How to reach me ... find me @ LinkedIn at username jenidub
